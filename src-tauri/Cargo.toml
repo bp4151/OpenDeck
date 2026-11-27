@@ -46,7 +46,7 @@ os_info = "3.14"
 urlencoding = "2.1"
 base64 = "0.22"
 reqwest = { version = "0.13", features = ["json"] }
-zip = { version = "6.0", default-features = false, features = ["deflate", "zstd"] }
+zip = { version = "9.0", default-features = false, features = ["deflate", "zstd"] }
 active-win-pos-rs = "0.10"
 sysinfo = { version = "0.38", default-features = false, features = ["system"] }
 semver = "1.0"
